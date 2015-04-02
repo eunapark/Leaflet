@@ -1,0 +1,24 @@
+// Exercise 3
+// Create JSON to contain diff place names in the city with long/lat
+// Loop through list and plot markers on map
+{"location_data":[
+   {	"Name": "NYU",
+        "Lat": "40.7300°",
+        "Long": "73.9950°"
+    },
+
+    {	"Name": "Hunter College",
+        "Lat": "40.7685°",
+        "Long": "73.9647°",
+    },
+    
+    {	"Name": "FIT",
+        "Lat": "40.7467°",
+        "Long": "73.9942°"
+    },
+    
+    {	"Name": "Parsons",
+        "Lat": "40.7353°",
+        "Long": "73.9942°
+    }
+]}

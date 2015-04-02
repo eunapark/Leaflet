@@ -1,0 +1,29 @@
+*{
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+		   -box-sizing: border-box;
+}
+
+#map { 
+	height: 500px; 
+}
+
+h1{
+	font-size: 30px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.button{
+	padding-top: 2px;
+	width: 100px;
+	border: 1px solid #000;
+	height: 20px;
+	text-align: center;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+.button:hover{
+	cursor: pointer;
+	background-color: #ccc;
+}
